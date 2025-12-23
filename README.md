@@ -13,7 +13,7 @@ Rust is a programming language that is built to be fast, secure, reliable and su
   Statically typed language, which leaves almost no room for program to crash
 - **Builds optimized code for Generics**
   Rust’s compiler can smartly identify the code for, say, Lists and Sets, and optimize it differently for both.
-  ![image.png](attachment:16dbfd3b-9cc4-4364-9907-63fd2135af74:image.png)
+  ![funny meme shoutout frank](https://pbs.twimg.com/media/Ei-vydPWoAEvpxR.png)
 - **Compilation Error’s**
   Rust’s compiler has the really helpful error messages if you mess up your code. In some cases, the compiler will give you code that you can copy/paste in order for it to work.
 
