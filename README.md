@@ -21,7 +21,7 @@ Rust is a programming language that is built to be fast, secure, reliable and su
 
 ## **Windows**
 
-On Windowss, the recommended way to install Rust is via `rustup-init.exe`.
+On Windows, the recommended way to install Rust is via `rustup-init.exe`.
 
 1. Download the installer from the official website: https://rustup.rs/
 2. Run the executable and follow the on-screen instructions.
@@ -42,7 +42,7 @@ On macOS, you can install Rust using the `curl` command in your terminal. This d
 2. Run the following command:
 
 ```bash
-curl --proto '=https' --tlsv1.2 -sSf [<https://sh.rustup.rs>](<https://sh.rustup.rs>) | sh
+curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
 ```
 
 1. Follow the prompts to proceed with the installation (usually selecting option `1`).
