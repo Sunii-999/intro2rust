@@ -21,7 +21,7 @@ Rust is a programming language that is built to be fast, secure, reliable and su
 
 ## **Windows**
 
-On Windows, the recommended way to install Rust is via `rustup-init.exe`.
+On Windowss, the recommended way to install Rust is via `rustup-init.exe`.
 
 1. Download the installer from the official website: https://rustup.rs/
 2. Run the executable and follow the on-screen instructions.
