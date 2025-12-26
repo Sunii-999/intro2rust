@@ -60,6 +60,8 @@ rustc --version
 
 ---
 
+tests test setsets etset
+
 ## Linux
 
 The installation process for Linux is identical to macOS, using `curl`.
