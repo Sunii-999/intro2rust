@@ -73,3 +73,11 @@ stijnwalravens@Thomass-Mac-mini basicProject % cargo run
      Running `target/debug/basicProject`
 Hello, DRGT via CARgo!
 ```
+
+## Interesting to know
+
+| Comment type | Purpose        | Can stand alone?                |
+| ------------ | -------------- | ------------------------------- |
+| `//`         | Normal comment | ✅ Yes                          |
+| `/* */`      | Block comment  | ✅ Yes                          |
+| `///`        | Documentation  | ❌ No (must document something) |

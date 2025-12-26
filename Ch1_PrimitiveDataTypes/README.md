@@ -1,4 +1,4 @@
-# Primitive Data Types in Rust
+# Primitive Data Types
 
 Primitive data types are the **basic building blocks** of Rust programs.  
 They represent **single, simple values** and are stored directly on the **stack**, making them very fast.
