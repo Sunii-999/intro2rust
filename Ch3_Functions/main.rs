@@ -20,6 +20,10 @@ fn main() {
     let height: f64 = 1.82;
     let bmi: f64 = calculate_bmi(weight, height);
     println!("Your bmi is {:.2}", bmi)
+
+
+    print_greeting("Sunii");
+
 }
 
 
@@ -57,3 +61,6 @@ fn calculate_bmi(weight_kg: f64, height_m: f64) ->f64{
 
 //// Statement: Anything that does not return a value
 
+fn print_greeting(name: &str) {
+    println!("Hello, {}! Welcome to Rust.", name);
+}
