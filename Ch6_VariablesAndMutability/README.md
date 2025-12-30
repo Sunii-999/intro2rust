@@ -98,7 +98,3 @@ Both are valid, but explicit types are useful for documentation or when the comp
 - You must use `mut` to make them mutable.
 - Rust prevents accidental state changes at **compile time**.
 - Type annotations (like `: i32`) are optional but helpful for clarity.
-
----
-
-**Would you like me to explain "Shadowing" next? It allows you to redeclare variables with the same name (using `let` twice) without using `mut`.**
