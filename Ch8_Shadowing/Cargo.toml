@@ -1,5 +1,5 @@
 [package]
-name = "Ch7_constants"
+name = "Ch8_Shadowing"
 version = "0.1.0"
 edition = "2024"
 

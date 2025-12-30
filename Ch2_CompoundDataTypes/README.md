@@ -27,8 +27,6 @@ let numbers: [i32; 5] = [1, 2, 3, 4, 5];
 println!("Number Array: {:?}", numbers);
 ```
 
-````
-
 Explanation:
 
 - `i32` → type of each element
@@ -249,4 +247,7 @@ This is part of Rust’s **ownership and borrowing safety model**.
 - Use **slices** to borrow parts of data
 - Use **String** when you need ownership and mutability
 - Use **&str** when borrowing text data
-````
+
+```
+
+```

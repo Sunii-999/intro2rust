@@ -1,5 +1,7 @@
 # 🧪 Rust Exercises (Chapters 1–3)
 
+_These come from ChatGPT_
+
 ---
 
 ## 1️⃣ Primitive Types Warm-Up

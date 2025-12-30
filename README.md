@@ -108,13 +108,25 @@ cargo build
 
 ---
 
+# MUST KNOW
+
+Everything labeled with Ch it mostly basically side by side following the tutorial of [BekBrace](https://www.youtube.com/watch?v=rQ_J9WH6CGk&t=4539s)
+
+I also did my own research for small changes that have happened in Rust since then (small name changes).
+
+But anything after chapter 8 will majority come from [TheRustBook](https://doc.rust-lang.org/book/title-page.html)
+
+---
+
 # Sources
 
-https://medium.com/codex/rust-101-everything-you-need-to-know-about-rust-f3dd0ae99f4c
+[Everything-You-Need-To-Know-About-Rust](https://medium.com/codex/rust-101-everything-you-need-to-know-about-rust-f3dd0ae99f4c)
 
-https://www.youtube.com/watch?v=rQ_J9WH6CGk&t=534s
+[BekBrace](https://www.youtube.com/watch?v=rQ_J9WH6CGk&t=4539s)
 
-https://stackoverflow.com/questions/69178380/what-does-zero-cost-abstraction-mean/69178445#69178445
+[Zero cost abstraction Rust](https://stackoverflow.com/questions/69178380/what-does-zero-cost-abstraction-mean/69178445#69178445)
+
+[TheRustBook](https://doc.rust-lang.org/book/title-page.html)
 
 ## Copyright & Attribution
 
