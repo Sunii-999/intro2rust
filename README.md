@@ -114,7 +114,6 @@ Everything labeled with Ch it mostly basically side by side following the tutori
 
 I also did my own research for small changes that have happened in Rust since then (small name changes).
 
-But anything after chapter 8 will majority come from [TheRustBook](https://doc.rust-lang.org/book/title-page.html)
 
 ---
 
